@@ -11,7 +11,7 @@ Untuk mengetahui bagaimana faktor spatial dan lokasi mempengaruhi performa listi
     - Bagaimana jarak listing ke landmarks mempengaruhi performa listing (harga, review/month, availability, etc)
 
 ## 2. Data Sources
-- [data/raw/Airbnb Listings Bangkok.csv](link) - Airbnb Listings Bangkok 2012-2022
+- [data/raw](link) - Airbnb Listings Bangkok 2012-2022
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
